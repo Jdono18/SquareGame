@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="square_fill">#00FF00</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">SquareGame</string>
+    <string name="did_not_try">You did not try to tap the square</string>
+    <string name="instructions">Try to tap the square.</string>
+    <string name="missed_square">You missed the square</string>
+    <string name="seekbar_value_message">The seekbar value is %1$d</string>
+    <string name="show_square">Show Square</string>
+    <string name="tapped_square">You tapped the square</string>
+    <style name="Base.Theme.LandscapeLayout" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.LandscapeLayout" parent="Base.Theme.LandscapeLayout"/>
+</resources>

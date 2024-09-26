@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color square_fill
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable square
+id container
+id seek_bar
+id seek_bar_label
+id show_square_button
+id square
+id textView
+layout activity_main
+layout activity_square
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string did_not_try
+string instructions
+string missed_square
+string seekbar_value_message
+string show_square
+string tapped_square
+style Base.Theme.LandscapeLayout
+style Theme.LandscapeLayout
+xml backup_rules
+xml data_extraction_rules
